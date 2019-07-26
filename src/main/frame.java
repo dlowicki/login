@@ -27,6 +27,7 @@ public class frame
 	private static String dbName = "skypvp";   // Datenbankname
 	private static String dbUser = "root";     // Datenbankuser
 	private static String dbPass = "123456";   // Datenbankpasswort
+	//test
 	
 
    public static void main (String[] args)
